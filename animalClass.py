@@ -50,8 +50,8 @@ class Animal:
 
 cat = Animal('Mikey', 37, 8, 'Pet Me')
 dog = Animal('Maddie', 81, 26, 'Throw the ball')
-elephant = Animlal('Jumbo', 4038, 7124, 'Look out')
+elephant = Animal('Jumbo', 4038, 7124, 'Look out')
 
-print (cat.String())
-print (dog.String())
-print (elephant.String())
+print (cat.toString())
+print (dog.toString())
+print (elephant.toString())
