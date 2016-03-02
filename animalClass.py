@@ -96,6 +96,6 @@ class Dog(Animal):
 samson = Dog("Samson", 117, 98, "Woof", "Nature")
  
 print(samson.toString())
-
+print("Thanks for playing!")
 
                 
