@@ -9,3 +9,14 @@ print(full_name)
 print (origin)
 print (str(year))
 print (sentence)
+
+
+word1 = 'Good'
+half1 = len(word1)//2
+end1 = word1[half1:]
+
+word2 = 'Evening'
+half2 = len(word2)//2
+end2 = word2[half2:]
+
+print (word1 + word2)
