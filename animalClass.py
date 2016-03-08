@@ -52,9 +52,9 @@ cat = Animal('Space Cat', 33, 10, 'Worship me')
 
  
 print(cat.toString())
-cat = Animal('Mikey', 37, 8, 'Pet Me')
+cat = Animal('Mikey', 39, 8, 'Pet Me')
 print(cat.toString())
-dog = Animal('Maddie', 81, 26, 'Throw the ball')
+dog = Animal('Maddie', 82, 26, 'Throw the ball')
 print(dog.toString())
 elephant = Animal('Jumbo', 4038, 7124, 'Look out')
 print(elephant.toString())
